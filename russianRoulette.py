@@ -1,5 +1,5 @@
 from random import randint
-print ('\nWelcome to Russian Roulette 1.0\n   ©2017 Giacomo Scarabicchi')
+print ('\nWelcome to Russian Roulette 1.0\n   ©2017 vintagefuture')
 print ('''          _=___________________________-_
     =< '   | ========|___________________
       \|   | ========|___________________
